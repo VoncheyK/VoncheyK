@@ -1,3 +1,4 @@
+![alt text](https://vonchyy.tk/banner.png)
 # Vonchyy's Overview XD
 
 Hi i make things!
