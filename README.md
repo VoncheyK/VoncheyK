@@ -3,4 +3,4 @@
 Hi i make things!
  
 # Projects
-Websites: (Catyy)[https://catyy.ga/] (Vonchyy)[https://vonchyy.tk/]
+Websites: https://vonchyy.tk/ and https://catyy.ga/
