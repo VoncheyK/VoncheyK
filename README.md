@@ -1,4 +1,2 @@
-![alt text](https://vonchyy.tk/banner.png)
-
-# Projects
-Websites: https://vonchyy.tk/ and https://catyy.ga/
+# Vonchyy
+Hello i make some stuff! Some of my projects are https://vonchyy.tk/ and https://catyy.ga/
