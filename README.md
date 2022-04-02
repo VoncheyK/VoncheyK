@@ -1,7 +1,11 @@
 # Vonchyy
-Hello i make some stuff! Some of my projects are https://vonchyy.tk/ and https://catyy.ga/
+Hello i make some stuff with haxe, python and some js.
+
+My Twitter is https://twitter.com/RealVonchyy
+My Discord Server is https://discord.gg/eTNaRmGfgN
+
+My current project is [https://github.com/VoncheyK/MadnessEngine] (Madness Engine)
 
 # What to put here?
 **What to put here?**
 *What to put here?*
-_What to put here?_
