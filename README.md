@@ -1,6 +1,6 @@
 # Vonchyy
 Hello i make some stuff with haxe, python and some js.
-
+Lots of shit here is old..
 
 
 # Vonchyy's Socials
