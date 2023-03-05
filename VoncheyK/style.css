@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+@keyframes titlefade {
+    0%   { color:rgba(125, 80, 140, 0);    
+        max-width: 0px;
+         top: 25%;
+        }
+    100% { color:rgba(125, 80, 140, 100); 
+        max-width: 100px;
+        top: 50%;
+    
+        text-transform:inherit;}
+  }
+
+
+.title {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 50%;
+    left: 50%;
+    margin-left: -50px; /* margin is -0.5 * dimension */
+    margin-top: -25px; 
+
+    white-space: nowrap;
+    overflow: hidden;
+
+    max-width: 100px;
+
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgba(125, 80, 140, 100);
+
+    animation-name: titlefade;
+    animation-duration: 2s;
+
+    user-select: none;
+    -webkit-user-select: none;
+}
+
